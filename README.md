@@ -1,5 +1,5 @@
 # EzTranslate
-A component for Delphi to help in the translation of your applications in a quick and simplified way. 
+A component for Delphi to help in the translation of your applications. 
 
 <p align="center">
  <a href="#objetive">Objective</a> •
