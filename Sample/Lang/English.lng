@@ -1,0 +1,27 @@
+[f_main]
+caption="Component Demo"
+lblwellcome="Welcome to the component example, you can easily load language files and add regionalization to your application simply and quickly "
+btnPortuguese="Portuguese"
+h_btnPortuguese="Load the portuguese language"
+btnEnglish="English"
+h_btnEnglish="Load the english language"
+btnSpanish="Spanish"
+h_btnSpanish="Load the spanish language"
+btnSeccondForm="Open Form"
+h_btnSeccondForm="Open a second form to exemplify the translation of another screen."
+memMessage="The component works with the Caption, Lines, Text and Hint properties, but you can also create variables and use them in messages."
+btnMessage1="Menssage 1"
+btnMessage2="Mensage 2"
+File1="File"
+New1="New"
+Open1="Open"
+Close1="Close"
+About1="About"
+
+[Messages]
+Message1="You clicked the Message1 button"
+Message2="You clicked the Message2 button"
+
+[f_other]
+caption="Another example screen"
+lblSample="Loading other content on a new screen. Press ok to go back"

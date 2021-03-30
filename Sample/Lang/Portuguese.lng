@@ -1,0 +1,28 @@
+[f_main]
+caption="Demonstração do componente"
+lblwellcome="Bem vindo ao exemplo do componente, você poderá facilmente carregar arquivos de linguagem e adicionar regionalização em sua aplicação de forma simples e rápida"
+btnPortuguese="Português"
+h_btnPortuguese="Carregar o idioma português"
+btnEnglish="Inglês"
+h_btnEnglish="Carregar o idioma inglês"
+btnSpanish="Espanhol"
+h_btnSpanish="Carregar o idioma espanhol"
+btnSeccondForm="Abrir Form"
+h_btnSeccondForm="Abrir um segundo formulário para exemplificar a tradução de outra tela."
+memMessage="O componente trabalha com as propriedades Caption, Lines, Text e Hint, mas você também pode criar variáveis e usar em mensagens."
+btnMessage1="Mensagem 1"
+btnMessage2="Mensagem 2"
+btnSeccondForm="Abrir form"
+File1="Arquivo"
+New1="Novo"
+Open1="Abrir"
+Close1="Fechar"
+About1="Sobre"
+
+[Messages]
+Message1="Você clicou no botão Mensagem1"
+Message2="Você clicou no botão Mensagem2"
+
+[f_other]
+caption="Outra tela de exemplo"
+lblSample="Carregando outro conteúdo em uma nova tela. Aperte ok para voltar"
